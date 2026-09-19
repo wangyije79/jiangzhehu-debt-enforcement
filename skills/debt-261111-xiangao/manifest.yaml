@@ -1,0 +1,22 @@
+name: debt-261111-xiangao
+title: 限制高消费
+positioning: 限高范围、申请方式与解除途径
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 82466bf9e89d110544031c8ec4aff7809ab1cccc555a5a8b0ce4421e6a43a365

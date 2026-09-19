@@ -1,0 +1,22 @@
+name: debt-261116-yiyi-zhongben
+title: 执行异议与终结本次执行
+positioning: 执行异议、案外人异议与终本恢复
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: d5e4ff3736fe088336a5ca7e8fa82cf5ce9c1821cd3a3872ac8099eae4127d33

@@ -1,0 +1,22 @@
+name: debt-261110-chafeng-dongjie
+title: 查封冻结与扣划
+positioning: 可执行财产范围、唯一住房与扣划
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 6f619781ad6c48bd5fa28cac34575d65c7e3e3ad1398393113a549e8253af0eb

@@ -1,0 +1,22 @@
+name: debt-261031-diyawu
+title: 抵押与质押
+positioning: 抵押登记效力、抵押物转让与质押区别
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 3471743a554a6907ffce237ddfb074c319ea5a87a2aa4aba7e30355f728dc97b

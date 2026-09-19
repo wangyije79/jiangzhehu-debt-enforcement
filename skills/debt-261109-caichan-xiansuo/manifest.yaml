@@ -1,0 +1,22 @@
+name: debt-261109-caichan-xiansuo
+title: 自己怎么找财产线索
+positioning: 房产车辆、银行流水与悬赏公告
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 83b76ceb88d023723c8be842b83cfc829e62217296a5ae356c89a70b570b7885

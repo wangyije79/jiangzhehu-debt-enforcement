@@ -1,0 +1,22 @@
+name: debt-261030-danbao-zeren
+title: 担保人要不要还钱
+positioning: 保证方式、保证期间与追偿
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 42e4fb22caa11f78a431e8aad3ddf27c1236ae01c6998d26157b8ed66d8056ec

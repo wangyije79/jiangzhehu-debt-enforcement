@@ -1,0 +1,22 @@
+name: debt-261101-meiyou-jietiao
+title: 没有借条怎么要钱
+positioning: 无借条起诉、转账凭证与录音证据
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: a657d6caffb9df5a0cbe45856343abb00cae502d467f8b2f6cf7cc1188ecf53d

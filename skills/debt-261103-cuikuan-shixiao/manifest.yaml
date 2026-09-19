@@ -1,0 +1,22 @@
+name: debt-261103-cuikuan-shixiao
+title: 催款与诉讼时效
+positioning: 时效起算、中断与超过时效的补救
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: c8674e6b8d5a5027dc3b0fce3df5f40966f913cac7514fc5fe57f2e432496024

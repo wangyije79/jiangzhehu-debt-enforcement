@@ -1,0 +1,22 @@
+name: debt-261115-zhuijia-beizhixingren
+title: 追加与变更被执行人
+positioning: 股东出资、关联主体与申请材料
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: eb4ae9c23b425b0031d332c6386220f23a63e89259e32d6198d071a81ec69869

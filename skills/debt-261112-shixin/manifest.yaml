@@ -1,0 +1,22 @@
+name: debt-261112-shixin
+title: 失信被执行人
+positioning: 失信与限高的区别、后果与撤销
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 5d01c26d782d40368ada3768b704e6888d189798f2c3d9c2b65594a80069a253

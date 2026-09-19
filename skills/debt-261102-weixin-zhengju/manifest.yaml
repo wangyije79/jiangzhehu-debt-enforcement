@@ -1,0 +1,22 @@
+name: debt-261102-weixin-zhengju
+title: 微信聊天记录当证据
+positioning: 聊天记录取证、删除与视听资料
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: c45742fc8ecf602b3f6137edb4a1332d8e1db14cc2f2902e4375804be432aff0

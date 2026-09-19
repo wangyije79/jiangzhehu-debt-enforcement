@@ -1,0 +1,22 @@
+name: debt-261107-shenqing-zhixing
+title: 申请执行立案
+positioning: 执行材料、管辖与执行费用
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 959e22a2d579af5f773a659482b984c1336fb771275e0d4f7d449a8a2a18a382

@@ -1,0 +1,22 @@
+name: debt-261028-jietiao
+title: 借条怎么写才管用
+positioning: 借条与欠条的区别、必备要素与补救
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 1e4765e497587cd9953363b02a1db8ed01ba46d5e6efd73407925cdf59688a70

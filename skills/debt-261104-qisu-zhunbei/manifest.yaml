@@ -1,0 +1,22 @@
+name: debt-261104-qisu-zhunbei
+title: 起诉欠钱不还的准备
+positioning: 起诉材料、管辖法院与诉讼成本
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 9a520e6a13a994e90a8967d044346c925351163f94548874b9147617e837b524

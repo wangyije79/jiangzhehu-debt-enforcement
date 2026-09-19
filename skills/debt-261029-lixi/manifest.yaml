@@ -1,0 +1,22 @@
+name: debt-261029-lixi
+title: 借钱时的利息与利率
+positioning: 利率上限、无约定利息与砍头息复利
+version: 1.0.0
+generated: 2026-09-18
+law_verified: 2026-09-18
+region: 上海 / 江苏 / 浙江
+platforms:
+  - ZCode
+  - Claude Code
+  - Codex
+files:
+  - SKILL.md
+  - audit\legal-verification.json
+  - manifest.yaml
+  - references\cases.md
+  - references\checklist.md
+  - references\consultation.md
+  - references\law.md
+  - references\method.md
+  - tests\prompts.yaml
+sha256: 8b3beadcf8ade1824178c09d30495f171e1ad08a56fa1888dfd4238d2fb8ff5b
